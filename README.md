@@ -1,6 +1,4 @@
-Here's the README content converted into markdown code:
 
-```markdown
 # Climate Sense
 
 Climate Sense is a weather API built using Next.js. It provides real-time weather data for various locations worldwide.
@@ -105,4 +103,3 @@ Contributions are welcome! Please follow these steps to contribute:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 ```
 
-You can save this content into a `README.md` file in your project's root directory.
